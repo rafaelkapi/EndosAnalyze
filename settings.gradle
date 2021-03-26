@@ -1,0 +1,3 @@
+include ':InstagramCurso'
+include ':app'
+rootProject.name = "EndosAnalyze"
